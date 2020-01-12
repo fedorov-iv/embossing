@@ -1,0 +1,31 @@
+{
+  "pronit": [
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\ac", "files": ["420705_vc6.out", "447624_vc1.out", "462730_vc22.out"], "extension": ".vc"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\gemalto_pw", "files": ["446917_vc8.out", "404885_vc1.out", "425620_vc1.out"], "extension": ".vs"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\visa_cosmofly5", "files": ["447624_vc6.out", "vc6.out 447603_vc2.out", "447624_vc2.out", "446917_vc11.out", "425620_vc11.out", "425884_vc1.out", "447624_vc13.out", "vc66.out 446917_vc66.out", "462729_vc1.out", "404807_vc11.out", "404807_vc19.out", "446916_vc29.out", "446917_vc28.out", "446917_vc24.out", "446916_vc7.out", "404885_vc14.out", "462758_vc1.out", "425885_vc1.out", "446917_vc25.out", "446916_vc1.out", "446916_vc2.out", "446916_vc26.out", "447624_vc15.out", "446916_vc11.out"],"extension": ".vl"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\mc_ac", "files": ["558536_mc3.out"], "extension": ".ms"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\mc_rosan", "files": ["510069_mc13.out", "528053_mc13.out", "515876_mc13.out"], "extension": ""},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\oberthur", "files": ["404885_vc13.out"], "extension": ".vg"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\oberthur_mc", "files": ["528053_mc1.out"], "extension": ".mcs"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\oberthur_mc", "files": ["515876_mc17.out"], "extension": ".mcg"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\oberthur26", "files": ["447603_vc1.out"], "extension": ".vg"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\oberthur26", "files": ["446916_vc6.out"], "extension": ".vs"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\rosan", "files": ["404885_vc11.out", "404885_vc17.out", "404885_vc19.out", "447603_vc15.out", "462758_vc15.out", "447624_vc14.out", "446917_vc7.out", "422287_vc12.out"], "extension": ".vs"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\mc_cosmofly5", "files": ["533616_mc12.out", "533616_mc11.out", "528053_mc18.out", "558536_mc2.out", "510069_mc11.out", "515876_mc2.out", "510069_mc2.out", "510069_mc3.out", "515876_mc1.out", "553496_mc3.out", "510070_mc15.out", "510070_mc1.out", "537965_mc1.out", "533594_mc12.out", "510069_mc1.out", "533594_mc1.out", "528808_mc19.out", "533594_mc14.out", "558273_mc3.out", "528809_mc19.out", "537965_mc2.out", "515876_mc17.out"],  "extension": ".v23"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\salary", "files": ["123456out.out", "mc99.out"],  "extension": ".ertrrr"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\mir_kona251", "files": ["220030_rc1.out"],  "extension": ".uiii"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\visa_vsesrazu_cosmofly5_CVM_onl", "files": ["447603_vc2.out", "447624_vc2.out"],  "extension": ".dfgjjj"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\mc_rosan_CJ_icd", "files": ["mc23.out"],  "extension": ".klfii"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\vs_rosan_CJ_icd", "files": ["447603_vc23.out"],  "extension": ".jhkjkl"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Pronit\\input\\mc_inhouse_CJ", "files": ["537965_mc3.out", "545115_mc1.out", "558536_mc1.out"],  "extension": ".nnnn"}
+  ],
+  "novacard": [
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Novacard\\input\\folder01", "files": ["447603_vc23.out"],  "extension": ".jhkjkl"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Novacard\\input\\folder01\\done", "files": [],  "extension": ""},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Novacard\\input\\folder02", "files": ["537965_mc3.out", "545115_mc1.out", "558536_mc1.out"],  "extension": ".nnnn"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Novacard\\input\\folder02\\done", "files": [],  "extension": ""},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Novacard\\input\\folder03", "files": ["447624_vc6.out", "vc6.out 447603_vc2.out", "447624_vc2.out", "446917_vc11.out", "425620_vc11.out", "425884_vc1.out", "447624_vc13.out", "vc66.out 446917_vc66.out", "462729_vc1.out", "404807_vc11.out", "404807_vc19.out", "446916_vc29.out", "446917_vc28.out", "446917_vc24.out", "446916_vc7.out", "404885_vc14.out", "462758_vc1.out", "425885_vc1.out", "446917_vc25.out", "446916_vc1.out", "446916_vc2.out", "446916_vc26.out", "447624_vc15.out", "446916_vc11.out"],"extension": ".vl"},
+    {"dir": "c:\\Users\\ruafdi4\\Embossing\\Novacard\\input\\folder03\\done", "files": [],  "extension": ""}
+  ]
+  
+}
